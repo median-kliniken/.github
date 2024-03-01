@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="MEDIAN Kliniken" src="images/banner.png">
+    <img alt="MEDIAN Kliniken" src="https://github.com/median-kliniken/.github/blob/main/profile/images/banner.png?raw=true">
 </div>
 
 ## MEDIAN – Ihr Spezialist für Rehabilitation
